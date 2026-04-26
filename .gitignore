@@ -1,0 +1,6 @@
+bin/
+obj/
+GenIcon/bin/
+GenIcon/obj/
+*.user
+.vs/
